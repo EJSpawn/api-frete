@@ -1,0 +1,14 @@
+S:\Workspace\c#\api-frete\bin\Debug\netcoreapp2.2\api-frete.deps.json
+S:\Workspace\c#\api-frete\bin\Debug\netcoreapp2.2\api-frete.runtimeconfig.json
+S:\Workspace\c#\api-frete\bin\Debug\netcoreapp2.2\api-frete.runtimeconfig.dev.json
+S:\Workspace\c#\api-frete\bin\Debug\netcoreapp2.2\api-frete.dll
+S:\Workspace\c#\api-frete\bin\Debug\netcoreapp2.2\api-frete.pdb
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.csprojAssemblyReference.cache
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.csproj.CoreCompileInputs.cache
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.RazorAssemblyInfo.cache
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.RazorAssemblyInfo.cs
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.AssemblyInfoInputs.cache
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.AssemblyInfo.cs
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.RazorTargetAssemblyInfo.cache
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.dll
+S:\Workspace\c#\api-frete\obj\Debug\netcoreapp2.2\api-frete.pdb
